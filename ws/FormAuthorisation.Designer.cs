@@ -148,7 +148,7 @@
             // 
             this.labelAuthorisation.AutoSize = true;
             this.labelAuthorisation.Font = new System.Drawing.Font("Mistral", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelAuthorisation.Location = new System.Drawing.Point(306, 15);
+            this.labelAuthorisation.Location = new System.Drawing.Point(310, 66);
             this.labelAuthorisation.Name = "labelAuthorisation";
             this.labelAuthorisation.Size = new System.Drawing.Size(115, 26);
             this.labelAuthorisation.TabIndex = 13;
